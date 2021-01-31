@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TtTRz&layout=compact&count_private=true&cache_seconds=1800&langs_count=10&hide=python,css,html,vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TtTRz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TtTRz)](https://github.com/anuraghazra/github-readme-stats)
