@@ -1,4 +1,5 @@
 # Hello 2021! ☀️
+## Think Twice, Code Once!
 
 * A Front-End Developer.
 * Learning Rust now.
