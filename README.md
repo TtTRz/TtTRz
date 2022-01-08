@@ -1,9 +1,47 @@
-# Hello 2021! ☀️
-## Think Twice, Code Once!
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;" />
+</div>  
+  
 
-* A Front-End Developer.
-* Learning Rust now.
-* Try to learn Computer Graphics.
+## <div align="center">Think Twice, Code Once!</div>  
+  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TtTRz&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TtTRz&layout=compact&count_private=true&cache_seconds=1800&langs_count=10&hide=python,css,html,vue,scss,java,kotlin,swift,Ruby,Objective-C,Shell,C)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on WeChat Miniprogram.  
+  
 
+- 🌱 I’m currently learning Rust and Computer Graphics.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TtTrz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TtTRz&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>  
+
+<br/>  
+
+My ![Visitor Count](https://profile-counter.glitch.me/TtTRz/count.svg) visitor
+
+  
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
