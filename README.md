@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on WeChat Miniprogram.  
   
 
-- 🌱 I’m currently learning Rust, C++ and Computer Graphics.  
+- 🌱 I’m currently learning C++ and Computer Graphics.  
   
 
 <br/>  
