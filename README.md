@@ -4,13 +4,7 @@
   
 
 ## <div align="center">Think Twice, Code Once!</div>  
-  
 
-- 🔭 I’m currently working on WeChat Miniprogram.  
-  
-
-- 🌱 I’m currently learning C++ and Computer Graphics.  
-  
 
 <br/>  
 
